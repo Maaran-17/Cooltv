@@ -10,11 +10,11 @@
 
 // ============ ⚙ CONFIGURATION ============
 const config = {
-    host: 'dhoom4u.me', // Replace with your Stalker-Portal host (e.g., 'example.com')
-    mac_address: '00:1A:79:A0:9C:57', // Replace with your MAC address
-    serial_number: 'AF5B70E977686', // Replace with your serial number
-    device_id: '45FBC11D2653280F583481369C4B24021CCD27AC9495F5E9E8CC20C6723D134F', // Replace with your device_id
-    device_id_2: '45FBC11D2653280F583481369C4B24021CCD27AC9495F5E9E8CC20C6723D134F', // Replace with your device_id_2
+    host: 'my.7startv.me', // Replace with your Stalker-Portal host (e.g., 'example.com')
+    mac_address: '00:1A:79:F0:45:58', // Replace with your MAC address
+    serial_number: 'D8A5C6BC42CC6', // Replace with your serial number
+    device_id: '26CBEC7F9C6DC438B2657257B7C28FAFBF269DEB9921813F17315C6E279986FA', // Replace with your device_id
+    device_id_2: '26CBEC7F9C6DC438B2657257B7C28FAFBF269DEB9921813F17315C6E279986FA', // Replace with your device_id_2
     stb_type: 'MAG270', // Replace with Stalker-Portal Stb_type
     api_signature: '263', // No need to change
 };
