@@ -15,7 +15,7 @@ const config = {
     serial_number: '', // Replace with your serial number
     device_id: '', // Replace with your device_id
     device_id_2: '', // Replace with your device_id_2
-    stb_type: 'MAG250', // Replace with Stalker-Portal Stb_type
+    stb_type: 'MAG254', // Replace with Stalker-Portal Stb_type
     api_signature: '263', // No need to change
 };
 
