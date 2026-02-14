@@ -12,9 +12,9 @@
 const config = {
     host: 'http://geoiptv.one', // Replace with your Stalker-Portal host (e.g., 'example.com')
     mac_address: '00:1A:79:B2:EA:B3', // Replace with your MAC address
-    serial_number: '85D7176470706', // Replace with your serial number
-    device_id: 'EADFDE6F5A57421F9E3D11728951481821D98A9D5FB1D892EE6242263A2E194F', // Replace with your device_id
-    device_id_2: 'EADFDE6F5A57421F9E3D11728951481821D98A9D5FB1D892EE6242263A2E194F', // Replace with your device_id_2
+    serial_number: '', // Replace with your serial number
+    device_id: '', // Replace with your device_id
+    device_id_2: '', // Replace with your device_id_2
     stb_type: 'MAG250', // Replace with Stalker-Portal Stb_type
     api_signature: '263', // No need to change
 };
