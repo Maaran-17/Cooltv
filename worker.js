@@ -15,7 +15,7 @@ const config = {
     serial_number: '85D7176470706', // Replace with your serial number
     device_id: 'EADFDE6F5A57421F9E3D11728951481821D98A9D5FB1D892EE6242263A2E194F', // Replace with your device_id
     device_id_2: 'EADFDE6F5A57421F9E3D11728951481821D98A9D5FB1D892EE6242263A2E194F', // Replace with your device_id_2
-    stb_type: 'MAG270', // Replace with Stalker-Portal Stb_type
+    stb_type: 'MAG250', // Replace with Stalker-Portal Stb_type
     api_signature: '263', // No need to change
 };
 
